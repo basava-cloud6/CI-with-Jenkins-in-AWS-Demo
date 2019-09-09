@@ -53,16 +53,16 @@
         </plugins>
     </build>
     
-    <!-- <distributionManagement>
+    <distributionManagement>
         <repository>
             <id>maven-releases</id>
-            <url>http://34.93.144.130:8081/repository/maven-releases/</url>
+            <url>http://34.93.144.130:8081/repository/maven-hosted/</url>
         </repository>
-        <snapshotRepository>
+        <!--<snapshotRepository>
             <id>maven-hosted</id>
             <url>http://34.93.144.130:8081/repository/maven-hosted/</url>
-        </snapshotRepository>
+        </snapshotRepository> -->
     </distributionManagement>
-  -->
+  
  
 </project>
